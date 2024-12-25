@@ -4,7 +4,7 @@ I'm a C++/Python enthusiast who loves tinkering with code, exploring new technol
 
 ## 🛠️ My Tech Stack
 
-* **Languages:** C++, Python (and a sprinkle of other languages when the mood strikes)
+* **Languages:** C++, Python (and a sprinkle of other languages when the mood strikes), recently starts loving Rust.
 * **Libraries/Frameworks:**  Boost, NumPy, Pandas, TensorFlow/PyTorch (for my AI adventures)
 * **Tools:** Git, Docker, VS Code, CLion (and whatever else gets the job done)
 * **Interests:** Algorithms, Machine Learning, Systems Programming, Data Analysis
