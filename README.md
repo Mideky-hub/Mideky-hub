@@ -1,31 +1,69 @@
-# Hey! I'm Mathieu K. 👋 
+# 🚀 Mideky-hub's GitHub
 
-I'm a C++/Python enthusiast who loves tinkering with code, exploring new technologies, and contributing to open source.  
+I'm an embedded and distributed software engineer specializing in Rust, C++, and Python.  
+I thrive on complex, high-performance open source projects, and I'm always seeking the next big challenge.
 
-## 🛠️ My Tech Stack
+---
 
-* **Languages:** C++, Python (and a sprinkle of other languages when the mood strikes), recently starts loving Rust.
-* **Libraries/Frameworks:**  Boost, NumPy, Pandas, TensorFlow/PyTorch (for my AI adventures)
-* **Tools:** Git, Docker, VS Code, CLion (and whatever else gets the job done)
-* **Interests:** Algorithms, Machine Learning, Systems Programming, Data Analysis
+## 🏆 About Me
 
-## 🚀 My Projects
+- **Name:** [Mideky-hub](https://github.com/Mideky-hub)
+- **Specialties:**  
+  - Embedded Systems  
+  - Distributed Software  
+  - High-performance computing  
+  - Rust, C++, Python  
+- **Interests:**  
+  - Climbing 🧗  
+  - Video games 🎮  
+  - Guitar (fingerstyle) 🎸  
 
-* **Private Experiments:**  I have a collection of personal projects where I try out new ideas, learn from my mistakes, and push my boundaries. 
-* **Open Source Contributions:** I believe in giving back to the community and actively contribute to open source projects I'm passionate about. (Check out my contributions!)
-* **Research:** I enjoy diving into research papers and experimenting with cutting-edge techniques in my field.
+---
 
-## 🔭 What I'm Currently Exploring
+## 🌟 Badges & Highlights
 
-* **[C Compilator]:** I work with friends on C Compilator that is cool and could contains some cool features.
-* **[Malware analysis]:** I work on doing reverse engineering on different antivirus and malwares to understand how they works.
-* **[Quantum computing]:** I am currently researching quantic algorithm to solve NP-complete problems.
+<!-- Animated badges can be implemented using SVGs or Lottie animations in your deployed site. Replace static images below with your badge system! -->
 
-## 🤝 Let's Connect
+![Rustacean Badge](https://img.shields.io/badge/Rustacean-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white)
+![C++ Pro](https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Pythonista](https://img.shields.io/badge/Python-Powerful-yellow?style=for-the-badge&logo=python&logoColor=white)
+![x10 Programmer](https://img.shields.io/badge/x10-Performer-brightgreen?style=for-the-badge)
+![Open Source Climber](https://img.shields.io/badge/Open%20Source-Climber-orange?style=for-the-badge)
 
-I'm always open to collaboration, learning from others, and discussing interesting ideas. Feel free to reach out:
+---
 
-* **GitHub:** [@Mideky-Hub]
-* **LinkedIn:** [https://www.linkedin.com/in/mathieu-kerbel-5aa17316a/]
+## 🚧 Projects & Contributions
 
-Let's build something amazing together!
+> **Seeking complex, high-impact open source projects!**
+>
+> I am open to collaborating on:
+> - Distributed systems (databases, networking, cloud)
+> - Embedded OS and RTOS projects
+> - Performance-critical libraries
+
+
+## 🛠️ Tech Stack
+
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+
+---
+
+## ✨ Let's Connect
+
+- [GitHub](https://github.com/Mideky-hub)
+- Open to DMs for collaboration and opportunities!
+
+---
+
+> _"The climb never ends. There is always a new summit."_  
+> — Mideky-hub
+
+---
+
+<!--  
+For animation and interactivity, check out the live site (coming soon) or see `/assets/` for SVGs and Lottie files.  
+-->
