@@ -40,7 +40,10 @@ I thrive on complex, high-performance open source projects, and I'm always seeki
 > - Distributed systems (databases, networking, cloud)
 > - Embedded OS and RTOS projects
 > - Performance-critical libraries
-
+- Rust/Cargo
+- xz, GTest, GMock
+- Linux Kernel (driver)
+- AWS ParallelCluster
 
 ## 🛠️ Tech Stack
 
