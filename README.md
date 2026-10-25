@@ -1,72 +1,44 @@
-# 🚀 Mideky-hub's GitHub
+# Mathieu Kerbel
 
-I'm an embedded and distributed software engineer specializing in Rust, C++, and Python.  
-I thrive on complex, high-performance open source projects, and I'm always seeking the next big challenge.
+Technical architect. I work on cloud platforms, performance-critical code and cloud cost reduction. Rust is my main language.
 
----
+## What I do
 
-## 🏆 About Me
+- **Cloud architecture:** designing and migrating platforms, with a focus on cost and reliability.
+- **Performance:** rewriting slow systems in Rust, C and C++.
+- **FinOps:** finding and removing waste in cloud bills.
+- **Data and ML platforms:** DataOps, MLOps, HPC clusters.
+- **DevSecOps:** CI/CD, infrastructure as code, security in the pipeline.
 
-- **Name:** [Mideky-hub](https://github.com/Mideky-hub)
-- **Specialties:**  
-  - Embedded Systems  
-  - Distributed Software  
-  - High-performance computing  
-  - Rust, C++, Python  
-- **Interests:**  
-  - Climbing 🧗  
-  - Video games 🎮  
-  - Guitar (fingerstyle) 🎸  
+## Some results
 
----
+- Migrated a C# processing job to Rust at EDF Power Solutions: run time went from about 7h30 to under 30 seconds, and cloud costs dropped by roughly 50%.
+- Built a real-time IoT platform handling more than 1 million sensors.
+- Worked with 50+ clients as a freelance developer on embedded, HPC, blockchain and aerospace projects in C, C++, Python and Rust.
+- Published [ADAPT](https://github.com/Mideky-hub), a framework for designing microservices architectures.
 
-## 🌟 Badges & Highlights
+## FinOps, paid on results
 
-<!-- Animated badges can be implemented using SVGs or Lottie animations in your deployed site. Replace static images below with your badge system! -->
+I take 20% of the cloud savings I find, and nothing if your bill doesn't go down.
+It starts with a free 48-hour audit of your cloud bill. If the audit shows much bigger savings or work to do, we can talk about a second, paid engagement.
 
-![Rustacean Badge](https://img.shields.io/badge/Rustacean-%23DEA584.svg?style=for-the-badge&logo=rust&logoColor=white)
-![C++ Pro](https://img.shields.io/badge/C++-Expert-blue?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Pythonista](https://img.shields.io/badge/Python-Powerful-yellow?style=for-the-badge&logo=python&logoColor=white)
-![x10 Programmer](https://img.shields.io/badge/x10-Performer-brightgreen?style=for-the-badge)
-![Open Source Climber](https://img.shields.io/badge/Open%20Source-Climber-orange?style=for-the-badge)
+[Book a call](https://cal.com/mathieu-kerbel/finops-analyse-de-cas) · [LinkedIn](https://www.linkedin.com/in/mathieu-kerbel)
 
----
+## Stack
 
-## 🚧 Projects & Contributions
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat&logo=githubactions&logoColor=white)
 
-> **Seeking complex, high-impact open source projects!**
->
-> I am open to collaborating on:
-> - Distributed systems (databases, networking, cloud)
-> - Embedded OS and RTOS projects
-> - Performance-critical libraries
-- Rust/Cargo
-- xz, GTest, GMock
-- Linux Kernel (driver)
-- AWS ParallelCluster
+## Outside of work
 
-## 🛠️ Tech Stack
+Climbing, video games, fingerstyle guitar.
 
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat&logo=rust)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white)
+## Contact
 
----
-
-## ✨ Let's Connect
-
-- [GitHub](https://github.com/Mideky-hub)
-- Open to DMs for collaboration and opportunities!
-
----
-
-> _"The climb never ends. There is always a new summit."_  
-> — Mideky-hub
-
----
-
-<!--  
-For animation and interactivity, check out the live site (coming soon) or see `/assets/` for SVGs and Lottie files.  
--->
+- LinkedIn: [mathieu-kerbel](https://www.linkedin.com/in/mathieu-kerbel)
+- GitHub: [Mideky-hub](https://github.com/Mideky-hub)
